@@ -1,0 +1,11 @@
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\bin\Debug\CalculadoraForms.exe.config
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\bin\Debug\CalculadoraForms.exe
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\bin\Debug\CalculadoraForms.pdb
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.AssemblyReference.cache
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.Calculadora.resources
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.Properties.Resources.resources
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.GenerateResource.cache
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.exe
+C:\Users\Anderson\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.pdb
