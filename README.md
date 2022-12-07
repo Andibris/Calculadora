@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora feita em Windows Forms + C# .NET
+Calculadora básica feita em C# .NET no Windows Forms.
